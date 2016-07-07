@@ -2,7 +2,7 @@
   "name": "three-obj-loader",
   "version": "1.0.2",
   "description": "NodeJS wrapper for Three.js' OBJLoader function",
-  "main": "dist/index.js",
+  "main": "source/index.js",
   "scripts": {
     "test": "gulp test",
     "compile": "gulp build",
